@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043361447829",
+    "project_id": "tech-db5d2",
+    "storage_bucket": "tech-db5d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043361447829:android:bed20cb8463a508ec0409c",
+        "android_client_info": {
+          "package_name": "com.example.technician"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxStJAuq1z8ZSvvl5afAFrHIut7oRGo6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
